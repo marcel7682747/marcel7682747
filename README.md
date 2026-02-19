@@ -19,13 +19,7 @@ Atualmente estou estudando desenvolvimento web e construindo projetos para domin
 
 🔹 Em constante expansão…
 🔹 Sempre aprendendo…
-🔹 Sempre evoluindo…
-
-📫 Contato
-
-GitHub: https://github.com/marcel7682747
-
-Sempre aberto a aprender coisas novas…
+🔹 Sempre evoluindo..
 
 <!--
 **marcel7682747/marcel7682747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
